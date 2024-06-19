@@ -51,11 +51,54 @@ percentual de desconto e escreva o resultado obtido.
 
 """
 
+saldo = int(input("Informe o  valor da conta: "))
+desconto = int(input("Informe o valor do desconto: "))
+
+valorDesconto = ( saldo * (desconto/100))
+
+valorFinal1 = saldo - valorDesconto
+
+print("Valor atual ", valorFinal1 )
 
 """
 
-4) Faça um programa em Python que receba o valor de uma conta e um 
-percentual de desconto. Calcule o novo valor da conta ao ser aplicado, o 
-percentual de desconto e escreva o resultado obtido. 
+5) Faça um programa em Python que receba o valor de um salário e um 
+percentual de reajuste. Calcule o valor do novo salário reajustado. 
 
 """
+
+salario = int(input("Informe o  valor do salario: "))
+reajuste = int(input("Informe o valor do reajuste: "))
+
+valorReajuste = ( salario * (reajuste/100))
+
+valorFinal2 = saldo + valorReajuste
+
+print("Valor atual do salário é", valorFinal2)
+
+"""
+
+6) Faça um programa em Python que leia o número de eleitores de um 
+município, o número de votos em branco, nulos e válidos. Calcular e 
+escrever o percentual que cada um representa em relação ao total de 
+eleitores, isto é, o percentual de votos brancos, percentual de votos nulos e o 
+percentual de votos válidos. 
+
+"""
+
+eleitor = int(input("Informe número de voltos dos eleitores"))
+votosBranco = int(input("Informe número de voltos brancos "))
+votosNulos = int(input("Informe número de voltos nulos "))
+votosValidos = int(input("Informe número de voltos válidos "))
+
+percentualVotosBrancos = (votosBranco * 100)/eleitor
+
+percentualVotosNulos = (votosNulos * 100)/eleitor
+
+percentualVotosValidos = (votosValidos * 100)/eleitor
+
+print("Porcentual de votos brancos é: " + percentualVotosBrancos + " %")
+
+print("Porcentual de votos nulos é: " + percentualVotosNulos + " %")
+
+print("Porcentual de votos válidos é: " + percentualVotosValidos + " %")
