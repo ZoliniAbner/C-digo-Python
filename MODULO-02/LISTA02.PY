@@ -72,7 +72,7 @@ reajuste = int(input("Informe o valor do reajuste: "))
 
 valorReajuste = ( salario * (reajuste/100))
 
-valorFinal2 = saldo + valorReajuste
+valorFinal2 = salario + valorReajuste
 
 print("Valor atual do salário é", valorFinal2)
 
@@ -97,8 +97,8 @@ percentualVotosNulos = (votosNulos * 100)/eleitor
 
 percentualVotosValidos = (votosValidos * 100)/eleitor
 
-print("Porcentual de votos brancos é: " + percentualVotosBrancos + " %")
+print("Porcentual de votos brancos é: " , percentualVotosBrancos , " %")
 
-print("Porcentual de votos nulos é: " + percentualVotosNulos + " %")
+print("Porcentual de votos nulos é: " , percentualVotosNulos , " %")
 
-print("Porcentual de votos válidos é: " + percentualVotosValidos + " %")
+print("Porcentual de votos válidos é: " , percentualVotosValidos , " %")
