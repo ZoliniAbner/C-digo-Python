@@ -1,0 +1,14 @@
+1) Escreva um programa para encontrar a soma S = 3 + 6 + 9 +…. + 333.
+
+2) Escreva um programa que leia 10 notas e informe a média dos alunos.
+
+3) Escreva um programa de MENU contendo as opções de (1=Inclusão, 2=Exclusão, 3=Consulta, 4=Relatório e 9=Sair). 
+O programa só deve ser finalizado quando o usuário digitar a opção 9=Sair
+
+4) Escreva um programa que leia um número de 1 a 10, e mostre a tabuada desse número, somente a multiplicação.
+
+5) Escreva um programa para ler 2 valores e se o segundo valor informado for ZERO, deve ser lido um novo valor,
+ou seja, para o segundo valor não pode ser aceito o valor zero e imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido.
+
+6) Escreva um programa para ler as notas da 1ª e 2ª avaliações de um aluno, calcule e imprima a média (simples) desse aluno.
+Só devem ser aceitos valores válidos durante a leitura (0 a 10) para cada nota.
