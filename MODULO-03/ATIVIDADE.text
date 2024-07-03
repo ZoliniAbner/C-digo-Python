@@ -1,0 +1,40 @@
+Lista de atividade 03 – referente a Aula 04 de Estrutura Condicional
+
+1) Faça um programa em Python que receba um número e caso ele seja par
+imprima “O número informado é Par.”, caso contrário se este número for
+ímpar imprima “O número informado é Ímpar.”.
+
+
+2) Faça um programa em Python que calcule a média de 4 (quatro) números.
+Caso oresultado da média seja maior ou igual ao valor 60, imprima a
+mensagem "AlunoAprovado". Caso contrário, imprima "Aluno
+Reprovado".
+
+
+3) Faça um programa Python que receba o valor de um salário e um percentual
+de aumento a ser aplicado. Calcular o novo salário e imprimir o resultado
+obtido. Caso o novo salário seja maior do R$ 2.000,00 imprima a mensagem
+"Novo salário é Acima da média nacional brasileira". Caso contrário
+imprima "Novo salário é Abaixo da média nacional brasileira ".
+
+
+4) Faça um programa em Python que recebe o NOME e o PREÇO de um
+produto. Casoo PREÇO informado seja maior do que 100,00 calcule um
+desconto de 25% e imprima oNOME e PREÇO-COM-DESCONTO e a frase
+"Desconto de 25%.". Caso contrário,calcule um desconto de 15% e imprima
+o NOME, PREÇO-COM-DESCONTO e a frase"Desconto de 15%."
+
+
+5) Faça um programa para a Polícia Civil de Minas Gerais com a finalidade de
+ajudar aclassificar o envolvimento de uma pessoa em um crime. Para isso, o
+seu programa deveráfazer 5 perguntas para uma pessoa sobre um crime,
+sendo elas:
+a. "Telefonou para a vítima?"
+b. "Esteve no local do crime?"
+c. "Mora perto da vítima?"
+d. "Devia para a vítima?"
+e. "Já trabalhou com a vítima?"
+O programa deve no final emitir uma classificação sobre a participação da
+pessoa nocrime. Se a pessoa responder positivamente a 2 questões ela deve
+ser classificadacomo "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como
+"Assassino". Casocontrário, ele será classificado como "Inocente".
