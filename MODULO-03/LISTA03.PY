@@ -50,7 +50,7 @@ if valorFinal2 >= 2000:
     print("Novo salário é Acima da média nacional brasileira" , valorFinal2)
 
 else:
-    print("Novo salário é Abaixo da média nacional brasileira")
+    print("Novo salário é Abaixo da média nacional brasileira", valorFinal2)
 
 """
 Atividade 4
@@ -67,14 +67,14 @@ if preço <= 100:
 
     valor1 = preço - desconto1
 
-    print("Desconto de 25%" + nome + valor1)
+    print("Desconto de 25%" , nome , valor1)
 
 else:
     desconto2 = ( preço * (15/100))
 
     valor2 = preço - desconto2
 
-    print("Desconto de 25%" + nome + valor2)
+    print("Desconto de 25%" , nome , valor2)
     
 """
 Atividade 5
