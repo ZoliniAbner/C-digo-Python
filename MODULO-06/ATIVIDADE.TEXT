@@ -1,0 +1,37 @@
+Lista de Exercícios - Aula 07 - Manipulação de Listas
+
+Escreva um programa de MENU contendo as opções:
+
+1=Incluir usuário,
+2=Excluir usuário
+3=Consultar usuário
+4=Alterar usuário
+5=Listar todos os usuários que estão cadatrado
+9=Sair.
+
+
+É necessário que o programa tenha as seguintes funcionalidades:
+
+1) O programa só deve ser finalizado quando o usuário digitar a opção 9=Sair
+
+2) Utilizar todos recursos de programação (estruturas condicional e de repetição)
+aprendidos até momento, em especial a manipulação de Listas, para armazenar os
+dados.
+
+3) Deve-se habilitar para as opções do MENU para que sejam preenchidos no mínimo os
+seguintes campos:
+
+NOME COMPLETO,
+CPF
+TELEFONE
+E-MAIL
+DATA DE NASCIMENTO
+
+4) Todos os campos devem ser validados conforme o tipo de dado (string, inteiro e etc.) que
+são esperados, ou seja, caso seja informado pelo usuário do sistema um valor inadequado
+o programa de vocês devem criticar informando uma mensagem para o usuário e barrar
+este tipo de informação inadequada.
+
+5) Gravar um vídeo de no máximo 10 minutos explicando e mostrando a utilização de todas
+as funcionalidade e opções do MENU que foram solicitas e, enviar o vídeo e o link do
+código via plataforma moodle.

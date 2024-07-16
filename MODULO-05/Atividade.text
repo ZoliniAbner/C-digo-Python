@@ -1,0 +1,40 @@
+Lista de Exercícios - Aula 06 - Manipulação de Listas
+
+1. Considere a string A = "Um elefante incomoda muita gente" Que fatia da
+variável A em python corresponde a "elefante incomoda"?
+
+
+2. Escreva um programa que solicite uma frase ao usuário e escreva a frase toda em
+maiúscula e sem espaços em branco.
+
+
+3. Faça um programa que leia um nome e imprima somente as 4 primeiras letras do
+nome. Em seguida, imprima as 4 últimas letras do nome.
+
+
+4. Faça um programa que leia um nome, calcule e imprima a quantidade letras que
+tem esse nome.
+
+
+5. Faça um programa que receba uma palavra e a imprima de trás-para-frente
+6. Faça a um programa que receba do usuário um nome e imprima este mesmo nome
+sem as suas vogais.
+
+
+7. Faça um programa que leia um nome e converta todos os caracteres para maiúscula
+e, em seguida, converta todos os caracteres para minúscula.
+
+
+8. Faça um programa que leia um endereço de e-mail informado pelo usuário. Caso o e-
+mail informado esteja no padrão correto, ou seja, tenha no mínimo @.com o seu
+programa deverá imprimir a mensagem “e-mail informado está correto” e finalizar o
+programa, caso contrário deverá imprimir “e-mail inválido” e solicitar que o usuário
+informe um novo e-mail válido.
+
+
+Documentação a ser entregue via plataforma moodle:
+• Para cada uma das questões acima identifique e mostre quais são as etapas
+(Entrada, Processamento e Saída)
+• Gravar um vídeo de no máximo 8 minutos explicando e mostrando os seus
+programas funcionando e enviar o vídeo e o link do código via plataforma
+moodle.
